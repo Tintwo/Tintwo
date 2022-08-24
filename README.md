@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- :briefcase: I'm a senior fullstack developer
+- :seedling: I'm currently learning Go
+- :sound: I speak :fr: :gb:
+- :speech_balloon: Ask me about _technology_ and _science_
+- :mailbox: on Github & LinkedIn
+
+
 <!--
 **Tintwo/Tintwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
