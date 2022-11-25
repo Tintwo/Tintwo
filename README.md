@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 - :briefcase: I'm a senior fullstack developer
-- :seedling: I'm currently learning Go
+- 🔭 I’m currently working NodeJS (Typescript/NestJS)
+- :seedling: I'm currently learning Go and Rust (I can't choose yet 🤔)
 - :sound: I speak :fr: :gb:
 - :speech_balloon: Ask me about _technology_ and _science_
-- :mailbox: on Github & LinkedIn
+- :mailbox: on Github (actually I have my own Git repository) & LinkedIn
 
 
 <!--
