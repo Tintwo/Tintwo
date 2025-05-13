@@ -2,7 +2,7 @@
 
 - :briefcase: I'm a senior fullstack developer
 - 🔭 I’m currently working NodeJS (Typescript/NestJS)
-- :seedling: I'm currently learning Go and Rust (I can't choose yet 🤔)
+- :seedling: I'm currently learning Go
 - :sound: I speak :fr: :gb:
 - :speech_balloon: Ask me about _technology_ and _science_
 - :mailbox: on Github (actually I have my own Git repository) & LinkedIn
