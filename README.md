@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- :briefcase: I'm a senior fullstack developer
-- 🔭 I’m currently working NodeJS (Typescript/NestJS)
-- :seedling: I'm currently learning Go
+- :briefcase: I'm a senior fullstack developer / software engineer
+- 🔭 I’m currently working with NodeJS (Typescript/NestJS) and Go
 - :sound: I speak :fr: :gb:
 - :speech_balloon: Ask me about _technology_ and _science_
 - :mailbox: on Github (actually I have my own Git repository) & LinkedIn
